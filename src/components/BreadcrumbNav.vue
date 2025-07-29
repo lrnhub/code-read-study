@@ -2,7 +2,7 @@
   <div class="breadcrumb-nav">
     <div class="breadcrumb-item" @click="goToStudy">
       <i class="fas fa-home"></i>
-      <span>学习中心</span>
+      <span>数学学霸笔记中心</span>
     </div>
     <div v-if="category" class="breadcrumb-separator">
       <i class="fas fa-chevron-right"></i>
